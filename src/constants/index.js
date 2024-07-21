@@ -20,16 +20,14 @@ export const EXPERIENCES = [
     year: "January - May 2024",
     role: "Web Developer Student Assistant",
     company: "CSU Sacramento",
-    description: `
-    Developed and maintained responsive web applications for the Technology Department, enhancing various online platforms. Implemented client-side validation and form handling with JavaScript, ensuring data integrity and improving user experience. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
+    description: `Developed and maintained responsive web applications for the Technology Department, enhancing various online platforms. Implemented client-side validation and form handling with JavaScript, ensuring data integrity and improving user experience. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
      technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
   {
     year: "January 2023 - May 2023",
     role: "Web Developer Intern",
     company: "Tops Technologies",
-    description: `
-    Contributed to the development of an online household services ordering platform using Java, Spring MVC, and MySQL. Designed and implemented customer, service provider, and admin portals. Added features like user registration, service ordering, payment integration (Razorpay API), and bug fixing.`,
+    description: `Contributed to the development of an online household services ordering platform using Java, Spring MVC, and MySQL. Designed and implemented customer, service provider, and admin portals. Added features like user registration, service ordering, payment integration (Razorpay API), and bug fixing.`,
     technologies: ["JAVA", "MySQL", "RazorPay", "Bootstrap"],
   },
 ];
