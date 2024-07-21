@@ -10,8 +10,7 @@ export const EXPERIENCES = [
     year: "May 2024 - Present",
     role: "Software Developer Intern",
     company: "Yardi Systems",
-    description:`
-    Developed dynamic dashboards with Angular and TypeScript, integrated with SQL Server for data management, implemented backend services using C# and .NET, and designed RESTful APIs with .NET Core to support front-end functionalities.`,
+    description:`Developed dynamic dashboards with Angular and TypeScript, integrated with SQL Server for data management, implemented backend services using C# and .NET, and designed RESTful APIs with .NET Core to support front-end functionalities.`,
 
 
      technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
