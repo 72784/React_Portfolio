@@ -19,7 +19,7 @@ export const EXPERIENCES = [
     year: "January - May 2024",
     role: "Web Developer Student Assistant",
     company: "CSU Sacramento",
-    description: `Developed and maintained responsive web applications for the Technology Department, enhancing various online platforms. Implemented client-side validation and form handling with JavaScript, ensuring data integrity and improving user experience. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
+    description: `Developed and maintained responsive web applications for the Technology Department, enhancing various online platforms. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
      technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
   {
