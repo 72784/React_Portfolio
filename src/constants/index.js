@@ -3,38 +3,34 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
-
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
+export const HERO_CONTENT = `A passionate software developer based in California, currently pursuing my Master’s in Computer Science at California State University Sacramento. When I’m not coding, I enjoy exploring new cuisines, traveling, and discovering the beauty of the outdoors. I bring creativity and dedication to every project, focusing on building innovative web and mobile applications. Let’s collaborate and create something exceptional together!`;
+export const ABOUT_TEXT = `I am Parth Shiroya, a passionate and dedicated software developer currently pursuing a Master's degree in Computer Science at California State University Sacramento. With a Bachelor's degree in Information & Communication Technology from Gujarat Technological University, I have developed a robust foundation in various programming languages including Python, Java, C#, JavaScript, TypeScript, HTML/CSS, SQL, SML, and PHP. My professional journey has equipped me with hands-on experience in frameworks and libraries such as TensorFlow, Angular, and OpenCV.`;
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "May 2024 - Present",
+    role: "Software Developer Intern",
+    company: "Yardi Systems",
+    description:`
+    Developed dynamic dashboards with Angular and TypeScript, integrated with SQL Server for data management, implemented backend services using C# and .NET, and designed RESTful APIs with .NET Core to support front-end functionalities.`,
+
+
+     technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "January 2024 - May 2024",
+    role: "Web Developer Student Assistant",
+    company: "CSU Sacramento",
+    description: `
+    Developed and maintained responsive web applications for the Technology Department using HTML, CSS, JavaScript, and PHP, enhancing various online platforms. Implemented client-side validation and form handling with JavaScript, ensuring data integrity and improving user experience. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
+     technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
   {
-    year: "2021 - 2022",
+    year: "January 2023 - May 2023",
     role: "Full Stack Developer",
     company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    description: `
+    Contributed to the development of an online household services ordering platform using Java, Spring MVC, and MySQL. Designed and implemented customer, service provider, and admin portals with responsive HTML5, CSS3, and Bootstrap. Added features like user registration, service ordering, payment integration (Razorpay API), and bug fixing. Optimized web applications for performance and security, employing input validation, SQL injection prevention, and encryption.`,
+    technologies: ["JAVA", "MySQL", "RazorPay", "Bootstrap"],
   },
 ];
 
@@ -70,7 +66,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "+1 (916)-713-9709",
+  email: "parthshiroya2001@gmail.com",
 };
