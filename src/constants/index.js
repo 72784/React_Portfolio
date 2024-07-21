@@ -10,7 +10,8 @@ export const EXPERIENCES = [
     year: "May 2024 - Present",
     role: "Software Developer Intern",
     company: "Yardi Systems",
-    description:`Developed dynamic dashboards with Angular and TypeScript, integrated with SQL Server for data management, implemented backend services using C# and .NET, and designed RESTful APIs with .NET Core to support front-end functionalities.`,
+    description:`
+    Developed dynamic dashboards with Angular and TypeScript, integrated with SQL Server for data management, implemented backend services using C# and .NET, and designed RESTful APIs with .NET Core to support front-end functionalities.`,
 
 
      technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
@@ -19,14 +20,16 @@ export const EXPERIENCES = [
     year: "January - May 2024",
     role: "Web Developer Student Assistant",
     company: "CSU Sacramento",
-    description: `Developed and maintained responsive web applications for the Technology Department, enhancing various online platforms. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
+    description: `
+    Developed and maintained responsive web applications for the Technology Department using HTML, CSS, JavaScript, and PHP, enhancing various online platforms. Implemented client-side validation and form handling with JavaScript, ensuring data integrity and improving user experience. Utilized Git for version control and collaborated with team members through code reviews and merge requests.`,
      technologies: ["HTML", "CSS", "JavaScript", "PHP"],
   },
   {
     year: "January 2023 - May 2023",
     role: "Web Developer Intern",
     company: "Tops Technologies",
-    description: `Contributed to the development of an online household services ordering platform using Java, Spring MVC, and MySQL. Designed and implemented customer, service provider, and admin portals. Added features like user registration, service ordering, payment integration (Razorpay API), and bug fixing.`,
+    description: `
+    Contributed to the development of an online household services ordering platform using Java, Spring MVC, and MySQL. Designed and implemented customer, service provider, and admin portals with responsive HTML5, CSS3, and Bootstrap. Added features like user registration, service ordering, payment integration (Razorpay API), and bug fixing. Optimized web applications for performance and security, employing input validation, SQL injection prevention, and encryption.`,
     technologies: ["JAVA", "MySQL", "RazorPay", "Bootstrap"],
   },
 ];
