@@ -38,25 +38,25 @@ const Technologies = () => {
         </motion.div>
 
         <motion.div 
-                        variants={iconVariants(5)}
+                        variants={iconVariants(2)}
                         initial="initial"
                         animate="animate"className="rounded-2xl border-4 border-neutral-800 p-4">
             <SiMongodb className="text-7xl text-green-500"/>
         </motion.div>
         <motion.div 
-                        variants={iconVariants(6)}
+                        variants={iconVariants(4)}
                         initial="initial"
                         animate="animate"className="rounded-2xl border-4 border-neutral-800 p-4">
             <FaNodeJs className="text-7xl text-green-500"/>
         </motion.div>
         <motion.div 
-                        variants={iconVariants(4)}
+                        variants={iconVariants(1)}
                         initial="initial"
                         animate="animate"className="rounded-2xl border-4 border-neutral-800 p-4">
             <FaAngular className="text-7xl text-sky-700"/>
         </motion.div>
         <motion.div 
-                        variants={iconVariants(4)}
+                        variants={iconVariants(5)}
                         initial="initial"
                         animate="animate"className="rounded-2xl border-4 border-neutral-800 p-4">
             <DiMsqlServer className="text-7xl text-sky-700"/>
