@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `Hi, I'm Parth Shiroya, a dedicated software developer
 My interests lie in both software development and data science. When I'm not coding, I enjoy exploring new cuisines, travelling, hiking, watching movies, and listening to music. These hobbies not only refresh my mind but also inspire creativity and new perspectives in my professional work. Let’s connect and explore opportunities to create innovative solutions together!`
 export const EXPERIENCES = [
   {
-    year: "May 2024 - Present",
+    year: "May 2024 - August 2024",
     role: "Software Developer Intern",
     company: "Yardi Systems",
     description:`
