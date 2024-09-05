@@ -13,8 +13,8 @@ export const EXPERIENCES = [
     role: "IT Help Desk Student Assistant",
     company: "CSU Sacramento",
     description:`
-In my role as an IRT Help Desk Student Assistant at CSU Sacramento, I manage and prioritize IT support tickets using ServiceNow, ensuring efficient resolution of technical issues across various systems and platforms. I also handle the administration of Duo accounts through Duo Admin, performing tasks such as provisioning, troubleshooting, and managing multi-factor authentication (MFA) requests to maintain secure access. Additionally, I provide comprehensive technical support for hardware, software, and network-related issues, ensuring seamless IT operations for students, faculty, and staff.`
 
+As an IRT Help Desk Student Assistant at CSU Sacramento, I manage IT support tickets using ServiceNow to ensure efficient issue resolution. I also administer and troubleshoot Duo accounts through Duo Admin, handling multi-factor authentication requests. Additionally, I provide technical support and assistance to students, faculty, and staff, ensuring smooth operation of IT services across the campus.`
     , technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
   },
   {
