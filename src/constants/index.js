@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "IT Help Desk Student Assistant",
     company: "CSU Sacramento",
     description:`Responsible for managing and prioritizing IT support tickets using ServiceNow to ensure efficient resolution of technical issues across various systems and platforms. Administered Duo accounts through Duo Admin, including provisioning, troubleshooting, and managing multi-factor authentication (MFA) requests to maintain secure access. Provided comprehensive technical support for hardware, software, and network-related issues, ensuring seamless IT operations for students, faculty, and staff.`
-    , technologies: [".NET", "Angular", "SQL Server", "C#", "Java"],
+    , technologies: ["ServiceNow", "Duo Admin"],
   },
   {
     year: "May 2024 - August 2024",
